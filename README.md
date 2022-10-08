@@ -20,4 +20,5 @@ yarn dev
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/65451957/194720762-21144d59-101b-445a-8e59-94ad35763062.png)
-
+---
+![image](https://user-images.githubusercontent.com/65451957/194720868-a4f350ec-301d-4844-bd8d-2281ff5c26f6.png)
