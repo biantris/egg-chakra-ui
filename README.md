@@ -1,4 +1,4 @@
-### Egg Chakra UI
+# Egg Chakra UI
 
 > Learning about Chakra UI [here](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
 
